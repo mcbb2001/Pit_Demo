@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11bbaf11-7551-412f-beba-a8a46d98ca96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PktcRbqo9O6U6qw2rxt5lugb3t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jeremy Case\Downloads\PeterTheEarthling-tutorialseries-4e14f177fbfc (1)\virtual robot\src\org\core" />
+      <recent name="C:\Users\Jeremy Case\Downloads\PeterTheEarthling-tutorialseries-4e14f177fbfc (1)\virtual robot\src\teamcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jeremy Case\Downloads\PeterTheEarthling-tutorialseries-4e14f177fbfc (1)\virtual robot\src\org" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_241" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="PeterTheEarthling-tutorialseries-4e14f177fbfc (1)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="out.production.PurePursuitTutorial.Main.Main.java" />
+      <module name="PeterTheEarthling-tutorialseries-4e14f177fbfc (1)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11bbaf11-7551-412f-beba-a8a46d98ca96" name="Default Changelist" comment="" />
+      <created>1566430000352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566430000352</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="276" key="#Project_Structure" timestamp="1581519799808">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="727" y="276" key="#Project_Structure/74.0.2120.1234@74.0.2120.1234" timestamp="1581519799808" />
+    <state x="589" y="272" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581558256387">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="589" y="272" key="#com.intellij.execution.impl.EditConfigurationsDialog/74.0.2120.1234@74.0.2120.1234" timestamp="1581558256387" />
+    <state x="914" y="322" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581554623895">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="914" y="322" key="#com.intellij.ide.macro.MacrosDialog/74.0.2120.1234@74.0.2120.1234" timestamp="1581554623895" />
+    <state x="839" y="359" key="FileChooserDialogImpl" timestamp="1581558295742">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="839" y="359" key="FileChooserDialogImpl/74.0.2120.1234@74.0.2120.1234" timestamp="1581558295742" />
+    <state width="2077" height="346" key="GridCell.Tab.0.bottom" timestamp="1581905205465">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="346" key="GridCell.Tab.0.bottom/74.0.2120.1234@74.0.2120.1234" timestamp="1581905205465" />
+    <state width="2077" height="346" key="GridCell.Tab.0.center" timestamp="1581905205465">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="346" key="GridCell.Tab.0.center/74.0.2120.1234@74.0.2120.1234" timestamp="1581905205465" />
+    <state width="2077" height="346" key="GridCell.Tab.0.left" timestamp="1581905205465">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="346" key="GridCell.Tab.0.left/74.0.2120.1234@74.0.2120.1234" timestamp="1581905205465" />
+    <state width="2077" height="346" key="GridCell.Tab.0.right" timestamp="1581905205465">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="346" key="GridCell.Tab.0.right/74.0.2120.1234@74.0.2120.1234" timestamp="1581905205465" />
+    <state x="615" y="192" key="SettingsEditor" timestamp="1581558345355">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="615" y="192" key="SettingsEditor/74.0.2120.1234@74.0.2120.1234" timestamp="1581558345355" />
+    <state x="830" y="441" key="com.intellij.ide.util.TipDialog" timestamp="1581984998507">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="830" y="441" key="com.intellij.ide.util.TipDialog/74.0.2120.1234@74.0.2120.1234" timestamp="1581984998507" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PeterTheEarthling_tutorialseries_4e14f177fbfc__1_$Main.ic" NAME="Main Coverage Results" MODIFIED="1581519900336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

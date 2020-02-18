@@ -1,0 +1,2 @@
+"# Pit_Demo"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/mcbb2001/Pit_Demo.gitgit push -u origin master
+"# Pit_Demo"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/mcbb2001/Pit_Demo.gitgit push -u origin master

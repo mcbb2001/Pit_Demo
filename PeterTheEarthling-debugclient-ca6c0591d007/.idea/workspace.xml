@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DebugClient:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc0f0ec4-7354-4b8d-bb63-314f84595278" name="Default Changelist" comment="added logging" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Debug_Client$Main.coverage" NAME="Main Coverage Results" MODIFIED="1559569876304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VrWleHiUhhnypZWT5gcouFPyGG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544281631256" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\benmi\Documents\Folder Folder\Pit Demo\Programs(copy)\PeterTheEarthling-debugclient-ca6c0591d007" />
+      <recent name="C:\Users\benmi\Documents\Folder Folder\Pit Demo\Programs(copy)\PeterTheEarthling-debugclient-ca6c0591d007\src" />
+      <recent name="C:\Users\Jeremy Case\Downloads\Programs(copy)\PeterTheEarthling-debugclient-ca6c0591d007" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\benmi\Documents\Folder Folder\Pit Demo\Programs(copy)\PeterTheEarthling-debugclient-ca6c0591d007" />
+      <recent name="C:\Users\Ben\Documents\Folder Folder\Pit Demo\Programs(copy)\PeterTheEarthling-debugclient-ca6c0591d007" />
+      <recent name="C:\RoverRuckus\Debug Client" />
+      <recent name="C:\RoverRuckus\Debug Client\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="DebugClient" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc0f0ec4-7354-4b8d-bb63-314f84595278" name="Default Changelist" comment="" />
+      <created>1544227082985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544227082985</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Udp working">
+      <created>1544285862701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544285862701</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gottee">
+      <created>1544286744225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544286744225</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nice looks">
+      <created>1550019651971</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550019651971</updated>
+    </task>
+    <task id="LOCAL-00004" summary="nice looks 2">
+      <created>1550020212372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550020212373</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added images">
+      <created>1550020475559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550020475559</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed following robot">
+      <created>1550082554785</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550082554785</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added spacer">
+      <created>1550232186767</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550232186767</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed flickering">
+      <created>1550232533927</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550232533927</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added logging">
+      <created>1550278222108</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550278222109</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Udp working" />
+    <MESSAGE value="gottee" />
+    <MESSAGE value="nice looks" />
+    <MESSAGE value="nice looks 2" />
+    <MESSAGE value="added images" />
+    <MESSAGE value="fixed following robot" />
+    <MESSAGE value="added spacer" />
+    <MESSAGE value="fixed flickering" />
+    <MESSAGE value="added logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="added logging" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="272" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581558755250">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="589" y="272" key="#com.intellij.execution.impl.EditConfigurationsDialog/74.0.2120.1234@74.0.2120.1234" timestamp="1581558755250" />
+    <state x="915" y="373" key="FileChooserDialogImpl" timestamp="1581899464132">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="915" y="373" key="FileChooserDialogImpl/74.0.2120.1234@74.0.2120.1234" timestamp="1581899464132" />
+    <state x="916" y="373" key="FileChooserDialogImpl/76.0.2118.1234@76.0.2118.1234" timestamp="1579010498368" />
+    <state width="2077" height="346" key="GridCell.Tab.0.bottom" timestamp="1581985044501">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="346" key="GridCell.Tab.0.bottom/74.0.2120.1234@74.0.2120.1234" timestamp="1581985044501" />
+    <state width="2075" height="267" key="GridCell.Tab.0.bottom/76.0.2118.1234@76.0.2118.1234" timestamp="1579010505793" />
+    <state width="2077" height="346" key="GridCell.Tab.0.center" timestamp="1581985044501">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="346" key="GridCell.Tab.0.center/74.0.2120.1234@74.0.2120.1234" timestamp="1581985044501" />
+    <state width="2075" height="267" key="GridCell.Tab.0.center/76.0.2118.1234@76.0.2118.1234" timestamp="1579010505791" />
+    <state width="2077" height="346" key="GridCell.Tab.0.left" timestamp="1581985044500">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="346" key="GridCell.Tab.0.left/74.0.2120.1234@74.0.2120.1234" timestamp="1581985044500" />
+    <state width="2075" height="267" key="GridCell.Tab.0.left/76.0.2118.1234@76.0.2118.1234" timestamp="1579010505791" />
+    <state width="2077" height="346" key="GridCell.Tab.0.right" timestamp="1581985044501">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="346" key="GridCell.Tab.0.right/74.0.2120.1234@74.0.2120.1234" timestamp="1581985044501" />
+    <state width="2075" height="267" key="GridCell.Tab.0.right/76.0.2118.1234@76.0.2118.1234" timestamp="1579010505793" />
+    <state width="2077" height="425" key="GridCell.Tab.1.bottom" timestamp="1581777116016">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="425" key="GridCell.Tab.1.bottom/74.0.2120.1234@74.0.2120.1234" timestamp="1581777116016" />
+    <state width="2075" height="425" key="GridCell.Tab.1.bottom/76.0.2118.1234@76.0.2118.1234" timestamp="1578926134288" />
+    <state width="2077" height="425" key="GridCell.Tab.1.center" timestamp="1581777116016">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="425" key="GridCell.Tab.1.center/74.0.2120.1234@74.0.2120.1234" timestamp="1581777116016" />
+    <state width="2075" height="425" key="GridCell.Tab.1.center/76.0.2118.1234@76.0.2118.1234" timestamp="1578926134288" />
+    <state width="2077" height="425" key="GridCell.Tab.1.left" timestamp="1581777116016">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="425" key="GridCell.Tab.1.left/74.0.2120.1234@74.0.2120.1234" timestamp="1581777116016" />
+    <state width="2075" height="425" key="GridCell.Tab.1.left/76.0.2118.1234@76.0.2118.1234" timestamp="1578926134288" />
+    <state width="2077" height="425" key="GridCell.Tab.1.right" timestamp="1581777116016">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state width="2077" height="425" key="GridCell.Tab.1.right/74.0.2120.1234@74.0.2120.1234" timestamp="1581777116016" />
+    <state width="2075" height="425" key="GridCell.Tab.1.right/76.0.2118.1234@76.0.2118.1234" timestamp="1578926134288" />
+    <state x="615" y="193" key="SettingsEditor" timestamp="1581558778388">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="615" y="193" key="SettingsEditor/74.0.2120.1234@74.0.2120.1234" timestamp="1581558778388" />
+    <state x="616" y="193" key="SettingsEditor/76.0.2118.1234@76.0.2118.1234" timestamp="1578925713330" />
+    <state x="830" y="443" key="com.intellij.ide.util.TipDialog" timestamp="1581899265837">
+      <screen x="74" y="0" width="2120" height="1234" />
+    </state>
+    <state x="830" y="443" key="com.intellij.ide.util.TipDialog/74.0.2120.1234@74.0.2120.1234" timestamp="1581899265837" />
+    <state x="831" y="443" key="com.intellij.ide.util.TipDialog/76.0.2118.1234@76.0.2118.1234" timestamp="1578925479924" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="getFieldSizePixels()" language="JAVA" />
+        <watch expression="ACTUAL_FIELD_SIZE" language="JAVA" />
+        <watch expression="getWindowSizeInRealScale()" language="JAVA" />
+        <watch expression="getTopLeftScreenRealPosition()" language="JAVA" />
+        <watch expression="centerXReal" language="JAVA" />
+        <watch expression="centerYReal" language="JAVA" />
+        <watch expression="zoomPercent" language="JAVA" />
+        <watch expression="zoomPercent" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>zoomPercent</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>centerYReal</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>centerXReal</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getTopLeftScreenRealPosition()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getWindowSizeInRealScale()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ACTUAL_FIELD_SIZE</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getFieldSizePixels()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

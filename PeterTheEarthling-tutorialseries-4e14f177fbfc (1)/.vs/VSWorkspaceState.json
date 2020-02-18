@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\virtual robot",
+    "\\virtual robot\\src",
+    "\\virtual robot\\src\\JNI",
+    "\\virtual robot\\src\\Main",
+    "\\virtual robot\\src\\PurePursuit"
+  ],
+  "SelectedNode": "\\virtual robot\\src\\Main\\Main.java",
+  "PreviewInSolutionExplorer": false
+}
